@@ -1,13 +1,13 @@
 
 <h3 align="center">
   <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
-  &nbsp; Welcome to Tahsin's profile &nbsp;
+  &nbsp; Welcome to Mezba's profile &nbsp;
   <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
 </h3>
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=I+am+MOHAMMAD+TAHSIN;+It's+Not+A+Just+Name+Bro;It's+A+Brand;Thank+You+Everyone;+Take+Love+From+Bangladesh )](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=I+am+MOHAMMAD+MEZBA;+It's+Not+A+Just+Name+Bro;It's+A+Brand;Thank+You+Everyone;+Take+Love+From+Bangladesh )](https://git.io/typing-svg)
 
 </p>
 
@@ -15,16 +15,16 @@
 
 <h3 align="center">Bangladeshi future programmer😌</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=TAHSIN-404&label=Profile%20views&color=eb4d3d&style=flat-square" alt="TAHSIN-404" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=M3ZB4-404&label=Profile%20views&color=eb4d3d&style=flat-square" alt="M3ZB4-404" /> </p>
 </i></b></h3>
 
 <h3><b><i>🏆 Github Statistics :</i></b></h3>
-<a href="https://github.com/TAHSIN-404"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=TAHSIN-404&theme=monokai"></a>
+<a href="https://github.com/M3ZB4-404"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=M3ZB4-404&theme=monokai"></a>
 
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- 👨‍⚖️ 𝐍𝐀𝐌𝐄:- 𝗧𝗔𝗛𝗦𝗜𝗡𝗨𝗟 𝗜𝗦𝗟𝗔𝗠 𝗠𝗘𝗭𝗕𝗔
+- 👨‍⚖️ 𝐍𝐀𝐌𝐄:- 𝗠𝗢𝗛𝗔𝗠𝗠𝗔𝗗 𝗠𝗘𝗭𝗕𝗔
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
@@ -48,7 +48,7 @@
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- 📱𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊:- [𝗧𝗔𝗛𝗦𝗜𝗡𝗨𝗟 𝗜𝗦𝗟𝗔𝗠](https://www.facebook.com/name.tahsin)
+- 📱𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊:- [𝗠𝗢𝗛𝗔𝗠𝗠𝗔𝗗 𝗠𝗘𝗭𝗕𝗔](https://www.facebook.com/name.tahsin)
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
@@ -56,11 +56,11 @@
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- 💻𝐆𝐈𝐓𝐇𝐔𝐁:- [𝗧𝗔𝗛𝗦𝗜𝗡-404](https://github.com/TAHSIN-404)
+- 💻𝐆𝐈𝐓𝐇𝐔𝐁:- [𝗠3𝗭𝗕4-404](https://github.com/M3ZB4-404)
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- 👻 Fun fact  **Everyone say I am funny**
+- 👻 Fun fact  ** I think I am funny**
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
@@ -69,7 +69,7 @@
 [![Instagram](https://img.shields.io/badge/Insta-%40Tahsin-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/tahsinul_islam__)
 [![Facebook](https://img.shields.io/badge/Facebook-green?style=for-the-badge&logo=facebook)](https://www.facebook.com/name.tahsin)
 [![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](https://m.me/name.tahsin)
-[![Github](https://img.shields.io/badge/Github-TAHSIN-404green?style=for-the-badge&logo=github)](https://github.com/TAHSIN-404)
+[![Github](https://img.shields.io/badge/Github-M3ZB4-404green?style=for-the-badge&logo=github)](https://github.com/M3ZB4-404)
 
 ### ⚙️ &nbsp; Language & programming
 
